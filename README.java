@@ -46,6 +46,6 @@ LOAD TIMES
 	- It can take 10+ seconds to load a new location depending on computer used.
 
 ACKNOWLEDGMENTS
-	- Sprites and artwork are derived from Generations 3, 4, and 5 Pokemon artwork found online.
-	  Human sprites were lightly edited, while Pokemon sprites were unaltered
+	- Pokémon is owned by Nintendo and this project was created for educational purposes only. As such, no image
+	files are included in this upload.
 */
