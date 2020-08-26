@@ -42,10 +42,7 @@ KNOWN BUGS
 	The most likely area for a bug would be in the PokemonHashMap or MoveHashMap,
 	where an inappropriate value could be listed for a stat/sprite/etc. 
 	
-LOAD TIMES
-	- It can take 10+ seconds to load a new location depending on computer used.
-
 ACKNOWLEDGMENTS
-	- Pokémon is owned by Nintendo and this project was created for educational purposes only. As such, no image
-	files are included in this upload.
+	- Pokémon is owned by Nintendo and this project was created for educational purposes only. 
+	As such, no image files are included in this upload.
 */
